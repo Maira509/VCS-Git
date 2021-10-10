@@ -26,3 +26,8 @@ img{
   margin-right: auto;
   margin-top: 20px;
 }
+div{
+  color: rgb(49, 47, 47);
+  text-align: center;
+  font-size: 25px;
+}
