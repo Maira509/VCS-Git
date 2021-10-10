@@ -6,20 +6,21 @@ h1{
   text-align: center;
   font-weight: bold;
   font-size: 60px;
+  border: #c91d1d; ;
 }
 
 h3{
   background-color:#c91d1d;
   color: white;
   font-weight: bold;
-  font-size: 40px;
-  text-align-last: center;
-  padding: 8px;
-  margin: 25px 150px;
+  font-size: 35px;
+  /* text-align-last: center; */
+  padding: 10px 20px;
+  margin: 25px 800px 25px 5px;
 }
 
 img{
-  width: 80%;
+  width: 70%;
   height: 50%;
   display: block;
   margin-left: auto;
@@ -28,6 +29,7 @@ img{
 }
 div{
   color: rgb(49, 47, 47);
-  text-align: center;
   font-size: 25px;
+  margin-top: 20px;
+  margin-left: 10px;
 }
