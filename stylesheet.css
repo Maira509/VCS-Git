@@ -1,22 +1,21 @@
 body{
-  background-color: rgb(243, 233, 233);
+  background-color: rgb(228, 233, 238);
 }
 h1{
-  color: #c91d1d;
+  color:#24246e;
   text-align: center;
   font-weight: bold;
   font-size: 60px;
-  border: #c91d1d; ;
 }
 
 h3{
-  background-color:#c91d1d;
+  background-color:#24246e;
   color: white;
   font-weight: bold;
   font-size: 35px;
-  /* text-align-last: center; */
+  text-align-last: center;
   padding: 10px 20px;
-  margin: 25px 800px 25px 5px;
+  margin: 25px 350px;
 }
 
 img{
@@ -29,7 +28,7 @@ img{
 }
 div{
   color: rgb(49, 47, 47);
-  font-size: 25px;
+  font-size: 20px;
   margin-top: 20px;
-  margin-left: 10px;
+  margin-left: 200px;
 }
